@@ -21,6 +21,11 @@ public class GlobalValues {
 		System.out.println(prop.getProperty("browser"));//print
 		FileOutputStream fos = new FileOutputStream("C:\\Users\\Dell\\eclipse-workspace\\UdemyPractice\\src\\GlobalValuesDeclar\\data.properties");//modify the data and also reflace the changes in the stored file
 		prop.store(fos, null);//fos object to store it in the file
+		System.out.println("Git Test Checking");
+		System.out.println("Git Test Checking");
+		System.out.println("Git Test Checking");
+		System.out.println("Git Test Checking");
+		System.out.println("Git Test Checking");
 		
 		
 
